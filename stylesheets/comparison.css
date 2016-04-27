@@ -5,7 +5,7 @@ div#comparison {
   max-height: 600px;
   overflow: hidden; }
 div#comparison figure { 
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/photoshop-face-before.jpg); 
+  background-image: url(http://i.imgur.com/o5S438s.jpg); 
   background-size: cover;
   position: relative;
   font-size: 0;
@@ -18,7 +18,7 @@ div#comparison figure > img {
   width: 100%;
 }
 div#comparison figure div { 
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/photoshop-face-after.jpg);
+  background-image: url(http://i.imgur.com/MPueTRW.jpg);
   background-size: cover;
   position: absolute;
   width: 50%; 
